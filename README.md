@@ -1,4 +1,4 @@
-# ThoraciNet
+# ThoraciNet : Thoracic Abnormality Detection \& Disease Classification using Fusion DCNNs
 The ongoing and active use of deep learning methods for thoracic disease classification has been a popular research area. Chest X-Ray is arguably the most common and ubiquitous medical imaging technique for diagnosing thoracic abnormalities. With the advent of large-scale public Chest X-Ray databases, annotated data is now available for academic research, helping build computer aided diagnosis (CAD) systems for thoracic abnormality detection, classification, and segmentation. This study aims to evaluate thoracic abnormality detection for CXR triaging, followed by disease classification using two asymmetric parallel Deep convolutional neural networks (DCNNs), with feature fusion and GradCAM visualization of the thoracic diseases. 
 
 ## Proposed Pipeline
