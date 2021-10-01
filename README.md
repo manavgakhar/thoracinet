@@ -15,6 +15,5 @@ The ongoing and active use of deep learning methods for thoracic disease classif
 ![image](https://user-images.githubusercontent.com/55736716/132122658-38bc148d-3d8b-4e8b-a10d-78f8f3e91e9c.png)
 ![image](https://user-images.githubusercontent.com/55736716/132122659-289d4398-b76d-48de-a263-2fd62bce56b9.png)
 
-![image](https://user-images.githubusercontent.com/55736716/132122668-dc0544d0-326d-4a38-b4df-7897bd9334d5.png)
-![image](https://user-images.githubusercontent.com/55736716/132122669-cfdc71bd-7299-47cc-8633-6ee13f8671ee.png)
+
 
